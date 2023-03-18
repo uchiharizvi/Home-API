@@ -1,0 +1,15 @@
+.bg {
+    background-image: url('../Assets/Background/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    background-size: cover;
+}
+.form{
+    background-color: rgb(240, 240, 6);
+    display: block;
+    text-align: left;
+    text-shadow: teal;
+}
+.links{
+    display: list-item;
+}
