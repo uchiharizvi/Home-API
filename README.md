@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Home API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project talks about dynamic URLS
 
 ## Available Scripts
 
